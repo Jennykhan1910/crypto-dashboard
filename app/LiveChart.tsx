@@ -63,10 +63,6 @@ export default function LiveChart() {
         </span>
 
         <span className="rounded-[15px] border-[1px] px-3 lg:px-[15px] border-gray-500 text-gray-500">
-          3h
-        </span>
-
-        <span className="rounded-[15px] border-[1px] px-3 lg:px-[15px] border-gray-500 text-gray-500">
           1d
         </span>
 
