@@ -58,9 +58,7 @@ export default function LiveChart() {
       {/* Time buttons */}
       <div className="flex items-center gap-2 lg:gap-[15px] justify-end mt-[-25px] mr-0 lg:mr-[24px]">
 
-        <span className="rounded-[15px] border-[1px] px-3 lg:px-[15px] border-gray-500 text-white bg-[#3A6FF8]">
-          1h
-        </span>
+        
 
         <span className="rounded-[15px] border-[1px] px-3 lg:px-[15px] border-gray-500 text-gray-500">
           1d
