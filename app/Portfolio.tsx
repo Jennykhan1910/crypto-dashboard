@@ -33,11 +33,11 @@ export default function Portfolio() {
         </div>
 
         <div className="absolute top-[222px] w-full">
-          <Item icon="icon (1).png" name="Litecoin" amount="1.74" symbol="LTC" price="$146.36" percent="-0.45%" isPositive={false} />
+          <Item icon="icon (1).png" name="Litecoin" amount="70" symbol="LTC" price="$146.36" percent="-0.45%" isPositive={false} />
         </div>
 
         <div className="absolute top-[290px] w-full">
-          <Item icon="icon (4).png" name="Solana" amount="37.84" symbol="SOL" price="$5,406.58" percent="+5.21%" isPositive={true} />
+          <Item icon="icon (4).png" name="Solana" amount="3.7" symbol="SOL" price="$5,406.58" percent="+5.21%" isPositive={true} />
         </div>
 
         <div className="absolute top-[358px] w-full">
