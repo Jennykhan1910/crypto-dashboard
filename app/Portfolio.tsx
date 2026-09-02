@@ -41,7 +41,7 @@ export default function Portfolio() {
         </div>
 
         <div className="absolute top-[358px] w-full">
-          <Item icon="icon (6).png" name="Binance Coin" amount="312.4" symbol="BNB" price="$187,824.25" percent="-0.82%" isPositive={false} />
+          <Item icon="icon (6).png" name="Binance Coin" amount="47" symbol="BNB" price="$187,824.25" percent="-0.82%" isPositive={false} />
         </div>
       </div>
     </div>
