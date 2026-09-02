@@ -115,7 +115,7 @@ export default function LiveChart() {
         <span>19.20</span>
         <span>19.30</span>
         <span>19.40</span>
-        <span>19.50</span>
+       
       </div>
 
     </div>
